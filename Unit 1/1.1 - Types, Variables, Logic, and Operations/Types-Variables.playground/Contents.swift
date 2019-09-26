@@ -90,4 +90,6 @@ print (rockysAge / 7)
 
 print("Hello" == "Hello")
 
+//Constants
 
+let pi = 3.14 //constant begins with a let keyword.  it automatically saves your playground.
